@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandani Dhammage</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Tester from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandanidhammage&label=Profile%20views&color=0e75b6&style=flat" alt="sandanidhammage" /> </p>
 
-- 🌱 I’m currently learning **React, Express, Java**
+- 🌱 I’m currently learning **React, Express, Java, Selenium**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Java, Selenium**
 
 - 📫 How to reach me **sandanid01@gmail.com**
 
